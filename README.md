@@ -6,14 +6,14 @@ _Below is an example showing how a software architecture diagram looks like when
 
 ## About
 I had the following needs after developing many versions of congested, unexpandable, non-modular and unsafe code for a project:
-1. An easier and safer way to develop code with RTOS since there occurs constant time consuming considerations for race conditions of resources and synchronisation between threads throughout the whole development process of the software. This also increases the complexity as the project grows.
+1. An easier and safer way to develop code with RTOS since there occurs constant and time consuming considerations for race conditions of resources and synchronisation between threads throughout the whole development process of the software. This also increases the complexity as the project grows.
 2. A convenient and simple way to be able to design a complete software architecture visually before beginning to code, which also can guide the whole development process directly. This architecture should be able to convey both higher or lower level design as required throughout the phases of a project.
 
 1st need was met by incorporationg the use of ZBUS which is a lightweight and flexible software bus that provides the desired abstraction for ease of development. _See more on [here](https://docs.zephyrproject.org/latest/services/zbus/index.html)._
 
 2nd need was met by designing this software architecture template, which was made possible with incorporation of ZBUS.
 
-* If you have similar needs, you need to put effort for learning ZBUS but you might not need to put more effort for creating a diagram template for designing software architectures. 
+* If you have similar needs, you need to put effort for learning ZBUS, but you might not need to put more effort for creating a diagram template for designing software architectures. 
 * You can use the architecture diagram template without incorporating the use of ZBUS, although its convenience would depend on how you'd use it. 
   
 Note: If you have any feedback, a modification request for the architecture template or noticed a mistake, please let me know by creating an issue or reaching me using the contact information I've provided below.
