@@ -25,8 +25,6 @@ There is an [example architecture](https://github.com/Batto1/Zephyr-ZBUS-Archite
 **Notice:** This is only a snapshot of the project's SW architecture which was ongoing. It may have mistakes or might be incomplete. Developing software from the architecture was still ongoing while this repo was uploaded. If you have any feedbacks or noticed a mistake, please let me know by creating an issue or reaching me using the contact information I've provided below.
 
 # Getting Started
-## Why Would You Need to Use This?
-
 
 ## Usage
 Build your architecture using the blocks in the template in draw.io. You can check the [example architecture](https://github.com/Batto1/Zephyr-ZBUS-Architecture-Diagram-Template/blob/730daa6ae7a3276a20c41233fdf4c2badc79a6ec/Example%20Architecture%20of%20a%20Real%20IoT%20Project.pdf) for further reference.
