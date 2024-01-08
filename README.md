@@ -1,7 +1,7 @@
 # Introduction
 This is a diagram template created for building software architectures with [Zephyr RTOS](https://docs.zephyrproject.org/latest/introduction/index.html)'s [ZBUS](https://docs.zephyrproject.org/latest/services/zbus/index.html) service.
 
-_Below is an example showing how a software architecture diagram looks like when created using this template._
+_Below is an example showing how an architecture diagram template looks like._
 ![Diagram connection example](https://github.com/Batto1/Zephyr-ZBUS-Architecture-Diagram-Template/assets/76911536/8b9c92c1-c340-403b-a75d-af7959faf649)
 
 ## About
